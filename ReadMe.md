@@ -1,4 +1,17 @@
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Description of the GIF" width="500" height="300">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" alt="Description of the GIF">
+</p>
+
+<p align="center">
+  <h1>I’m Omkar, a Machine Learning Engineer and Content Writer!</h1>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif" alt="Description of the GIF">
+</p>
+
+
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
