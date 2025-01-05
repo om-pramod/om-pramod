@@ -2,6 +2,11 @@
   <img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" alt="Description of the GIF" width="400">
 </p>
 <h2 align="center"><b>I’m Omkar, a Machine Learning Engineer and Content Writer!</b></h2>
+<div align="center">
+  <a href="https://github.com/om-pramod" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Follow%20Me-GitHub-blue?style=for-the-badge&logo=github" alt="Follow @om-pramod on GitHub">
+  </a>
+</div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif" alt="Description of the GIF" width="400">
 </p>
