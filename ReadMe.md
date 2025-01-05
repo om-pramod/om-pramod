@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" alt="Description of the GIF">
+  <img src="https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif" alt="Description of the GIF" width="400">
 </p>
-
+<h2 align="center"><b>I’m Omkar, a Machine Learning Engineer and Content Writer!</b></h2>
 <p align="center">
-  <h1>I’m Omkar, a Machine Learning Engineer and Content Writer!</h1>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif" alt="Description of the GIF">
+  <img src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif" alt="Description of the GIF" width="400">
 </p>
 
 
