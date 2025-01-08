@@ -26,15 +26,19 @@
 
 
 # Tech I Work With Daily:
-| <img src="https://github.com/ompramod2199/Assets/blob/main/python.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/numpy.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/microsoft-power-bi.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/streamlit.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/tensorflow.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/Keras.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/microsoft-azure.svg" width="50" height="50"> |<img src="https://github.com/ompramod2199/Assets/blob/main/mysql.svg" width="50" height="50"> |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| **Python** | **NumPy** | **Microsoft-power-bi** | **Streamlit** | **TensorFlow** | **Keras** | **Microsoft-azure** | **Mysql** |
-
-| <img src="https://github.com/ompramod2199/Assets/blob/main/docker.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/fastapi.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/git.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/gradio.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/scikit-learn.svg" width="50" height="50"> |
+| <img src="https://github.com/ompramod2199/Assets/blob/main/docker.svg" width="120" height="70"> | <img src="https://github.com/ompramod2199/Assets/blob/main/fastapi.svg" width="120" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/git.svg" width="100" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/gradio.svg" width="120" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/scikit-learn.svg" width="120" height="80"> |
 |:--:|:--:|:--:|:--:|:--:|
 | **Docker** | **FastAPI** | **Git** | **Gradio** | **Scikit-Learn** |
 
-| <img src="https://github.com/ompramod2199/Assets/blob/main/hugging-face.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/matplotlib.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/mongodb.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/mlflow.png" width="50" height="50"> |
+| <img src="https://github.com/ompramod2199/Assets/blob/main/python.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/numpy.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/microsoft-power-bi.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/streamlit.svg" width="70" height="50"> |
+|:--:|:--:|:--:|:--:|
+| **Python** | **NumPy** | **MS-power-bI** | **Streamlit** |
+
+| <img src="https://github.com/ompramod2199/Assets/blob/main/tensorflow.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/Keras.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/microsoft-azure.svg" width="50" height="50"> |<img src="https://github.com/ompramod2199/Assets/blob/main/mysql.svg" width="80" height="50"> |
+|:--:|:--:|:--:|:--:|
+| **TensorFlow** | **Keras** | **Microsoft-azure** | **Mysql** |
+
+| <img src="https://github.com/ompramod2199/Assets/blob/main/hugging-face.svg" width="130" height="70"> | <img src="https://github.com/ompramod2199/Assets/blob/main/matplotlib.svg" width="120" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/mongodb.svg" width="120" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/mlflow.png" width="100" height="80"> |
 |:--:|:--:|:--:|:--:|
 | **Hugging Face** | **Matplotlib** | **MongoDB** | **MLflow** |
 
