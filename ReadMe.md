@@ -26,6 +26,10 @@
 
 
 # Tech I Work With Daily:
+| <img src="https://github.com/ompramod2199/Assets/blob/main/python.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/numpy.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/scikit-learn.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/streamlit.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/tensorflow.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/Keras.svg" width="50" height="50"> |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| **Python** | **NumPy** | **Scikit-Learn** | **Streamlit** | **TensorFlow** | **Keras** |
+
 | <img src="https://github.com/ompramod2199/Assets/blob/main/docker.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/fastapi.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/git.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/gradio.svg" width="50" height="50"> |
 |:--:|:--:|:--:|:--:|
 | **Docker** | **FastAPI** | **Git** | **Gradio** |
@@ -38,19 +42,9 @@
 |:--:|:--:|:--:|:--:|
 | **Seaborn** | **PyTorch** | **Pandas** | **PyCaret** |
 
-| <img src="https://github.com/ompramod2199/Assets/blob/main/python.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/numpy.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/scikit-learn.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/streamlit.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/tensorflow.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/Keras.svg" width="50" height="50"> |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| **Python** | **NumPy** | **Scikit-Learn** | **Streamlit** | **TensorFlow** | **Keras** |
-
-
-| ![LangChain](https://github.com/ompramod2199/Assets/blob/main/Langchain.png) |![Haystack](https://github.com/ompramod2199/Assets/blob/main/Haystack.png) |
+| <img src="https://github.com/ompramod2199/Assets/blob/main/Langchain.png" width="50" height="50"> |<img src="https://github.com/ompramod2199/Assets/blob/main/Haystack.png" width="50" height="50">|
 |:--:|:--:|
 | **LangChain** | **Haystack** |
-
-|  | ![PyCaret](https://github.com/ompramod2199/Assets/blob/main/pycaret.png) |  |
-|:--:|:--:|:--:|:--:|
-| **MLflow** |   |
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=om-pramod&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
