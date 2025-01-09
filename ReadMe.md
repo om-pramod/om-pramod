@@ -24,6 +24,7 @@
 ## Just A Brief About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+I enjoy learning new AI techniques and sharing insights with a broader audience through my technical writings.
 
 # Tech I Work With Daily:
 <div align="center">
