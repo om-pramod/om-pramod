@@ -69,11 +69,10 @@ Additionally, I focus on Model deployment and monitoring to ensure efficient rea
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
+# <h3 align="center">Creative Minds Unite Here! Let’s Connect..</h3>
 
-</div><h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/ompramod" target="blank"><img align="center" src="https://github.com/ompramod2199/Assets/blob/main/LinkedIn.svg" alt="ompramod" height="80" width="80" /></a><a href="https://medium.com/@ompramod9921" target="blank"><img align="center" src="https://github.com/ompramod2199/Assets/blob/main/medium.png" alt="@ompramod9921" height="80" width="80" /></a></p>
+<a href="https://medium.com/@ompramod9921" target="blank"><img align="center" src="https://github.com/ompramod2199/Assets/blob/main/medium.png" alt="@ompramod9921" height="15" width="110" /></a> | <a href="https://linkedin.com/in/ompramod" target="blank"><img align="center" src="https://github.com/ompramod2199/Assets/blob/main/LinkedIn.svg" alt="ompramod" height="90" width="90" /></a> </p>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
