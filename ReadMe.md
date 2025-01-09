@@ -25,13 +25,20 @@
 
 ## Just A Brief About Me
 
-I enjoy learning new AI techniques and sharing insights with a broader audience through my technical writings. I am passionate about applying cutting-edge technologies to domain-specific challenges in areas like healthcare, finance, and autonomous systems.  
+<p style="text-align: justify;">
+I enjoy learning new AI techniques and sharing insights with a broader audience through my technical writings. I am passionate about applying cutting-edge technologies to domain-specific challenges in areas like healthcare, finance, and autonomous systems.
+</p>
 
-My expertise lies in leveraging advanced machine learning algorithms, deep learning techniques, and data science principles to drive impactful solutions. With a strong foundation in data wrangling, feature engineering, and advanced statistical methods, I continuously stay ahead by exploring emerging trends such as Explainable AI, Transfer Learning, and AutoML.  
+<p style="text-align: justify;">
+My expertise lies in leveraging advanced machine learning algorithms, deep learning techniques, and data science principles to drive impactful solutions. With a strong foundation in data wrangling, feature engineering, and advanced statistical methods, I continuously stay ahead by exploring emerging trends such as Explainable AI, Transfer Learning, and AutoML.
+</p>
 
-Additionally, I focus on model deployment and monitoring to ensure efficient real-world integration and maintenance. My recent focus includes advancements in Large Language Models (LLMs), Prompt engineering, Model optimization, Generative AI, and Ethical AI.
+<p style="text-align: justify;">
+Additionally, I focus on Model deployment and monitoring to ensure efficient real-world integration and maintenance. My recent focus includes advancements in Large Language Models (LLMs), Prompt Engineering, Model Optimization, Generative AI, and Ethical AI.
+</p>
 
 </div>
+
 
 <div align="center">
 
