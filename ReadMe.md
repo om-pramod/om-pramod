@@ -21,13 +21,21 @@
 </p>
 
 
-## Just A Brief About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-I enjoy learning new AI techniques and sharing insights with a broader audience through my technical writings.
-
-# Tech I Work With Daily:
 <div align="center">
+
+## Just A Brief About Me
+
+I enjoy learning new AI techniques and sharing insights with a broader audience through my technical writings. I am passionate about applying cutting-edge technologies to domain-specific challenges in areas like healthcare, finance, and autonomous systems.  
+
+My expertise lies in leveraging advanced machine learning algorithms, deep learning techniques, and data science principles to drive impactful solutions. With a strong foundation in data wrangling, feature engineering, and advanced statistical methods, I continuously stay ahead by exploring emerging trends such as Explainable AI, Transfer Learning, and AutoML.  
+
+Additionally, I focus on model deployment and monitoring to ensure efficient real-world integration and maintenance. My recent focus includes advancements in Large Language Models (LLMs), Prompt engineering, Model optimization, Generative AI, and Ethical AI.
+
+</div>
+
+<div align="center">
+
+## Tech I Daily Work With 
 
 | <img src="https://github.com/ompramod2199/Assets/blob/main/docker.svg" width="120" height="70"> | <img src="https://github.com/ompramod2199/Assets/blob/main/fastapi.svg" width="120" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/git.svg" width="80" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/gradio.svg" width="120" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/scikit-learn.svg" width="120" height="80"> |
 |:--:|:--:|:--:|:--:|:--:|
@@ -55,11 +63,6 @@ I enjoy learning new AI techniques and sharing insights with a broader audience 
 
 </div>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=om-pramod&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=om-pramod&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=om-pramod&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
