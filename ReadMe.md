@@ -47,9 +47,9 @@ Additionally, I focus on Model deployment and monitoring to ensure efficient rea
 |:--:|:--:|:--:|:--:|:--:|
 | **Docker** | **FastAPI** | **Git** | **Gradio** | **Scikit-Learn** |
 
-| <img src="https://github.com/ompramod2199/Assets/blob/main/hugging-face.svg" width="130" height="90"> | <img src="https://github.com/ompramod2199/Assets/blob/main/matplotlib.svg" width="120" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/mongodb.svg" width="120" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/mlflow.png" width="100" height="80"> |
-|:--:|:--:|:--:|:--:|
-| **Hugging Face** | **Matplotlib** | **MongoDB** | **MLflow** |
+| <img src="https://github.com/ompramod2199/Assets/blob/main/hugging-face.svg" width="130" height="90"> | <img src="https://github.com/ompramod2199/Assets/blob/main/matplotlib.svg" width="120" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/mongodb.svg" width="120" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/mlflow.png" width="100" height="80"> |<img src="https://github.com/ompramod2199/Assets/blob/main/haystack.svg" width="160" height="40">|
+|:--:|:--:|:--:|:--:|:--:|
+| **Hugging Face** | **Matplotlib** | **MongoDB** | **MLflow** |**Haystack** |
 
 | <img src="https://github.com/ompramod2199/Assets/blob/main/seaborn.svg" width="100" height="90"> | <img src="https://github.com/ompramod2199/Assets/blob/main/pytorch.svg" width="100" height="80"> | <img src="https://github.com/ompramod2199/Assets/blob/main/pandas.svg" width="100" height="80"> | <img src="https://github.com/ompramod2199/Assets/blob/main/pycaret.png" width="100" height="90"> |
 |:--:|:--:|:--:|:--:|
@@ -59,13 +59,17 @@ Additionally, I focus on Model deployment and monitoring to ensure efficient rea
 |:--:|:--:|:--:|:--:|
 | **TensorFlow** | **Keras** | **Microsoft-azure** | **Mysql** |
 
-| <img src="https://github.com/ompramod2199/Assets/blob/main/python.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/numpy.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/microsoft-power-bi.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/streamlit.svg" width="70" height="50"> |
+| <img src="https://github.com/ompramod2199/Assets/blob/main/typesense.svg" width="100" height="90"> | <img src="https://github.com/ompramod2199/Assets/blob/main/neo4j.svg" width="100" height="80"> | <img src="https://github.com/ompramod2199/Assets/blob/main/opensearch.svg" width="100" height="80"> |
+|:--:|:--:|:--:|
+| **Typesense** | **Neo4j** | **Opensearch** |
+
+| <img src="https://github.com/ompramod2199/Assets/blob/main/python.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/numpy.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/microsoft-power-bi.svg" width="50" height="50"> | <img src="https://github.com/ompramod2199/Assets/blob/main/streamlit.svg" width="60" height="50"> |
 |:--:|:--:|:--:|:--:|
 | **Python** | **NumPy** | **MS-power-bI** | **Streamlit** |
 
-| <img src="https://github.com/ompramod2199/Assets/blob/main/Langchain.png" width="120" height="70"> |<img src="https://github.com/ompramod2199/Assets/blob/main/Haystack.png" width="180" height="70">|
-|:--:|:--:|
-| **LangChain** | **Haystack** |
+| <img src="https://github.com/ompramod2199/Assets/blob/main/Langchain.png" width="120" height="70"> |
+|:--:|
+| **LangChain** |
 
 </div>
 
